@@ -37,11 +37,11 @@
   },
   "config": {
     "platform": {
-      "php": "8.3"
+      "php": "8.0"
     }
   },
   "require": {
-    "php": "^8.3",
+    "php": "^8.0",
     "netflex/http": "^5.0"
   },
   "require-dev": {
